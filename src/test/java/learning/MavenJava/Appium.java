@@ -8,6 +8,7 @@ public class Appium {
 	public void fbtest()
 	{
 		System.out.println("fbtest");
+		System.out.println("This is git test");
 	}
 
 	@Test
