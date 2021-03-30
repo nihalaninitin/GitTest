@@ -17,5 +17,10 @@ public class Appium {
 		System.out.println("tweetest");
 		System.out.println("this is commit from git test master");
 	}
-
+	@Test
+	public void tweettest1()
+	{
+		System.out.println("tweetest");
+		System.out.println("this is commit from git test master");
+	}
 }
